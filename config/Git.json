@@ -1,0 +1,63 @@
+[
+
+        {
+            "parameterized_Rel_URL" : "/Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Calendar.csv" ,
+            "parameterized_Sink_Folder" : "Caldender" ,
+            "parameterized_File_Name" : "Caldender.csv"
+        },
+
+        {
+            "parameterized_Rel_URL" : "Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Customers.csv" , 
+            "parameterized_Sink_Folder" : "Customers" ,
+            "parameterized_File_Name" : "Customers.csv"
+        },
+
+        {
+            "parameterized_Rel_URL" : "Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+            "parameterized_Sink_Folder" : "Product_Categories" ,
+            "parameterized_File_Name" : "Product_Categories.csv"
+        },
+
+        {
+            "parameterized_Rel_URL" : "Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+            "parameterized_Sink_Folder" : "Subcategories",
+            "parameterized_File_Name" : "Subcategories.csv"
+        },
+
+        {
+            "parameterized_Rel_URL" : "Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Products.csv",
+            "parameterized_Sink_Folder" : "Products",
+            "parameterized_File_Name" : "Products.csv"
+        },
+
+        {
+            "parameterized_Rel_URL" : "Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Returns.csv",
+            "parameterized_Sink_Folder" : "Returns" ,
+            "parameterized_File_Name" : "Returns.csv"
+        },
+
+        {
+            "parameterized_Rel_URL" : "Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Sales_2015.csv" ,
+            "parameterized_Sink_Folder" : "Sales_2015",
+            "parameterized_File_Name" : "Sales_2015.csv"
+        },
+
+        {
+            "parameterized_Rel_URL" : "Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Sales_2016.csv" ,
+            "parameterized_Sink_Folder" : "Sales_2016",
+            "parameterized_File_Name" : "Sales_2016.csv"
+        },
+
+        {
+            "parameterized_Rel_URL" : "Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Sales_2017.csv" ,
+            "parameterized_Sink_Folder" : "Sales_2017",
+            "parameterized_File_Name" : "Sales_2017.csv"
+        },
+
+        {
+            "parameterized_Rel_URL" : "Rawan-Arafa-DE/awsProject/refs/heads/main/Data/AdventureWorks_Territories.csv" ,
+            "parameterized_Sink_Folder" : "Territories" ,
+            "parameterized_File_Name" : "Territories.csv"
+        }
+    
+]
